@@ -1,5 +1,5 @@
 # WIP
 
-## Artificial neuron for logistic regression
+## 1/ Artificial neuron for logistic regression
 
-![Decision boundary animation](./assets/border1.gif)
+<img src="./assets/border1.gif" alt="Decision boundary animation" width="600">
