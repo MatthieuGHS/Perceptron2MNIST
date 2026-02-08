@@ -1,7 +1,7 @@
 # WIP
 <center>
 <h1><u>A Machine Learning Introduction</u></h1>
-<img src="./assets/mlp_full.gif" alt="Decision boundary animation" width="400">
+<img src="./assets/mlp_full_opt.gif" alt="Decision boundary animation" width="400">
 </center>
 
 This repository presents a three-part introduction to Machine Learning. Each part consists of a Python notebook and a PDF detailing the intuition and mathematics behind the code.
