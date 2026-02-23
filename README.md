@@ -13,7 +13,8 @@ In Part 1, we create a single neuron and train it for binary classification on a
 
 In Part 2, we combine several of these neurons to form a layer, which we then train for binary classification on a non-linearly separable dataset.
 
-In Part 3, we train the model from Part 2 on the MNIST dataset to recognise handwritten digits. 
+In Part 3, we improve and train the model from Part 2 on the MNIST dataset to recognise handwritten digits, using PyTorch.
 
-
-
+<center>
+<img src="./3_mnist/assets/mnist_preview.png" alt="Decision boundary animation" width="400">
+</center>
