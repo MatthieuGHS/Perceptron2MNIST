@@ -16,5 +16,5 @@ In Part 2, we combine several of these neurons to form a layer, which we then tr
 In Part 3, we improve and train the model from Part 2 on the MNIST dataset to recognise handwritten digits, using PyTorch.
 
 <center>
-<img src="./3_mnist/assets/mnist_pred.png" alt="Decision boundary animation" width="400">
+<img src="./assets/mnist_pred.png" alt="Decision boundary animation" width="400">
 </center>
