@@ -51,5 +51,6 @@ Clone the repo, create a virtual environment, and install dependencies:
 
 ```bash
 pip install -r requirements.txt
+```
 
 Then open the notebooks with Jupyter
