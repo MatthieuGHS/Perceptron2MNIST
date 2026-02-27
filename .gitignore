@@ -4,3 +4,9 @@ __pycache__/
 *.pyc
 .DS_Store
 README.ipynb
+data/
+ptdata/
+*.idx*
+*.ubyte
+*.gz
+backup_before_filter.bundle
